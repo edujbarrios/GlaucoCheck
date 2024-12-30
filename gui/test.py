@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import streamlit as st
 
 # Configuración de la aplicación
-st.set_page_config(page_title="Glaucoma Medicamentos", page_icon="🩺")
-st.title("🔍 App para determinar si un medicamento está contraindicado para glaucoma")
+st.set_page_config(page_title="GlaucoCheck", page_icon="🩺")
+st.title("🔍 GlaucoCheck - Detección de medicamentos contraindicados para glaucoma")
 
 # Lista completa de medicamentos usados para tratar glaucoma
 medicamentos_glaucoma = [

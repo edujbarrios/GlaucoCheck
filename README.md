@@ -1,5 +1,7 @@
 # GlaucoCheck - Detección de medicamentos contraindicados para glaucoma
 
+## WEB APP LINK: [https://glaucocheck.streamlit.app/](https://glaucocheck.streamlit.app/)
+
 ## Descripción
 GlaucoCheck es una aplicación web desarrollada con Streamlit que permite verificar si un medicamento está contraindicado para pacientes con glaucoma. A través de la API de CIMA (Centro de Información de Medicamentos de la AEMPS), se obtiene información actualizada sobre medicamentos y sus prospectos.
 
@@ -22,5 +24,3 @@ El glaucoma es una condición oftalmológica que puede agravarse con ciertos med
 - Streamlit
 - Requests
 - BeautifulSoup4
-
-## El enlace se publicará pronto...
